@@ -1,0 +1,32 @@
+{
+  "seeds": [
+    "https://www.lanecounty.org/",
+    "https://www.eugene-or.gov/",
+    "https://www.springfield-or.gov/",
+    "https://www.211info.org/",
+    "https://www.whitebirdclinic.org/",
+    "https://www.svdp.us/",
+    "https://www.foodforlanecounty.org/",
+    "https://www.ccslc.org/",
+    "https://www.lookingglass.us/",
+    "https://www.lcog.org/"
+  ],
+  "allowed_domains": [
+    "lanecounty.org",
+    "eugene-or.gov",
+    "springfield-or.gov",
+    "211info.org",
+    "whitebirdclinic.org",
+    "svdp.us",
+    "foodforlanecounty.org",
+    "ccslc.org",
+    "lookingglass.us",
+    "lcog.org",
+    "navigateresources.net",
+    "oregon.gov"
+  ],
+  "feed_urls": [
+    "https://www.211info.org/wp-json/wp/v2/pages?per_page=100&page=1",
+    "https://example.org/lane_county_resources.csv"
+  ]
+}

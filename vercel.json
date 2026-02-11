@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/public/index.html" },
+    { "src": "/api/export-csv", "dest": "/api/export-csv.py" },
+    { "src": "/api/health", "dest": "/api/export-csv.py" }
+  ]
+}
